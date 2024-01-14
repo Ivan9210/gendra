@@ -6,7 +6,7 @@ Welcome to the City Suggestions Service! This service provides suggestions for c
 
 To consume the service, you can use the `curl` command in your terminal. Here's an example:
 
-curl -X GET "http://gendra-411215.ue.r.appspot.com/api/gendra/suggestions?q=Londo&latitude=43.70011&longitude=-79.4163"
+curl -X GET "https://gendra-411215.ue.r.appspot.com/api/gendra/suggestions?q=Londo&latitude=43.70011&longitude=-79.4163"
 
 Replace the `q`, `latitude`, and `longitude` parameters with your desired values.
 
@@ -26,7 +26,7 @@ Replace the `q`, `latitude`, and `longitude` parameters with your desired values
 
 ### Example
 
-GET http://gendra-411215.ue.r.appspot.com/api/gendra/suggestions?q=Londo&latitude=43.70011&longitude=-79.4163
+GET https://gendra-411215.ue.r.appspot.com/api/gendra/suggestions?q=Londo&latitude=43.70011&longitude=-79.4163
 
 Replace the `q`, `latitude`, and `longitude` parameters with your desired values.
 
